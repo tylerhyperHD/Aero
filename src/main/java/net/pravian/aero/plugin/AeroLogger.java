@@ -3,7 +3,7 @@ package net.pravian.aero.plugin;
 import java.util.logging.Level;
 import java.util.logging.LogRecord;
 import java.util.logging.Logger;
-import org.apache.commons.lang.exception.ExceptionUtils;
+import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.bukkit.plugin.Plugin;
 
 /*

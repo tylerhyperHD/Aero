@@ -2,7 +2,7 @@ package net.pravian.aero.util;
 
 import java.lang.reflect.Field;
 import java.util.HashMap;
-import org.apache.commons.lang.ArrayUtils;
+import org.apache.commons.lang3.ArrayUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandMap;

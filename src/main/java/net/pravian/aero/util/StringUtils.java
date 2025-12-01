@@ -3,7 +3,7 @@ package net.pravian.aero.util;
 /**
  * Represents all String-related utilities.
  */
-public class StringUtils extends org.apache.commons.lang.StringUtils {
+public class StringUtils extends org.apache.commons.lang3.StringUtils {
 
     private StringUtils() {
     }
